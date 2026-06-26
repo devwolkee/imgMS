@@ -3,11 +3,11 @@
 <svg version="1.1" id="Camada_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 1304 296" style="enable-background:new 0 0 1304 296;" xml:space="preserve">
 <style type="text/css">
-	.st0{fill:#206987;}
+	.st0{fill:#356885;}
 	.st1{fill:url(#SVGID_1_);}
-	.st2{fill:#C7833D;}
-	.st3{fill:#0C958F;}
-	.st4{fill:#B85553;}
+	.st2{fill:#bf864a;}
+	.st3{fill:#43948f;}
+	.st4{fill:#ad5b56;}
 	.st5{opacity:0.5;fill:none;stroke:#FFFFFF;stroke-width:2;stroke-miterlimit:10;enable-background:new    ;}
 	.st6{fill:#34434D;}
 	.st7{fill:url(#SVGID_00000165954244074388635810000013060195363116657584_);}
@@ -31,7 +31,7 @@
 	
 		<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="596.5" y1="1375" x2="596.5" y2="1351" gradientTransform="matrix(1 0 0 1 0 -1092)">
 		<stop  offset="0.3" style="stop-color:#24A49D"/>
-		<stop  offset="0.7" style="stop-color:#206987"/>
+		<stop  offset="0.7" style="stop-color:#356885"/>
 	</linearGradient>
 	<path class="st1" d="M19,259h1167l0,0v24l0,0H19c-6.6,0-12-5.4-12-12l0,0C7,264.4,12.4,259,19,259z"/>
 	<path class="st2" d="M19,169h1167l0,0v24l0,0H19c-6.6,0-12-5.4-12-12l0,0C7,174.4,12.4,169,19,169z"/>
